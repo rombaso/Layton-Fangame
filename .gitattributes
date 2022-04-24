@@ -1,0 +1,2 @@
+core.autocrlf=true
+*.wav filter=lfs diff=lfs merge=lfs -text
